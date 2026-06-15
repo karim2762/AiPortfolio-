@@ -70,7 +70,7 @@ Everything is built inside a single HTML file for simplicity and easy deployment
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/karim2762/AiPortfolio-.git
 ```
 
 ### Open locally
